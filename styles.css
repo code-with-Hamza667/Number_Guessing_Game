@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #0078d4;
+}
+
+input {
+    width: 50px;
+}
+
+button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
